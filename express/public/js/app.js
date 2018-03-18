@@ -1,6 +1,7 @@
 window.jQuery = window.$ = jQuery;
 $(document).ready(function(){
-  var $actionBtn = $("#action-btn"),
+  console.log("hi");
+  var $actionBtn = $("#actionBtn"),
       $iconBtn = $("#actionBtn .fa"),
       $lockBtn = $("#lockBtn");
         
